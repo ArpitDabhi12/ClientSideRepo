@@ -1,2 +1,3 @@
 This is a new file. New
 changes at the end of the file
+ew change from bugfix branch.
